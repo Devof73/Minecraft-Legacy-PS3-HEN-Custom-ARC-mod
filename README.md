@@ -105,4 +105,5 @@ Mudanças nesta versão: (Jogo)
 - Modificou algumas texturas do jogo, minijogos, etc.
 
 Download:
-https://www.mediafire.com/file/zp15mj9ebiui5ce/UpdateOnlyRequiresDemoUnlockedToWork.zip/file
+old: https://www.mediafire.com/file/zp15mj9ebiui5ce/UpdateOnlyRequiresDemoUnlockedToWork.zip/file
+new: https://www.mediafire.com/file/0u7pd0oyudeihdw/BedrockInLegacyByDevof.zip/file
