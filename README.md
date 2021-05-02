@@ -103,3 +103,6 @@ Mudanças nesta versão: (Jogo)
 - O idioma do português, Brasil, espanhol, México e espanhol da América Latina foi atualizado
 
 - Modificou algumas texturas do jogo, minijogos, etc.
+
+Download:
+https://www.mediafire.com/file/zp15mj9ebiui5ce/UpdateOnlyRequiresDemoUnlockedToWork.zip/file
